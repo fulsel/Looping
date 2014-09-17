@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\GetVowel\bin\Debug\GetVowel.exe
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\GetVowel\bin\Debug\GetVowel.pdb
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\GetVowel\obj\x86\Debug\GetVowel.exe
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\GetVowel\obj\x86\Debug\GetVowel.pdb

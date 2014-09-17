@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\TableOfSquare\bin\Debug\TableOfSquare.exe
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\TableOfSquare\bin\Debug\TableOfSquare.pdb
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\TableOfSquare\obj\x86\Debug\TableOfSquare.exe
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\TableOfSquare\obj\x86\Debug\TableOfSquare.pdb
