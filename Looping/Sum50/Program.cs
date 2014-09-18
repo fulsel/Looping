@@ -9,11 +9,11 @@ namespace Sum50
     {
         static void Main(string[] args)
         {
-            
-            for(int i =1; i<=50; i++)
 
+            int total = 0;
+            for (int i = 1; i <= 50; i++)
             {
-                int total = i + total;
+                total += i;
 
             }
 
