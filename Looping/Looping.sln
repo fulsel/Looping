@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum50", "Sum50\Sum50.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect", "Perfect\Perfect.csproj", "{18A8EBBE-4A40-423C-825C-01E5C6107918}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect2", "Perfect2\Perfect2.csproj", "{9F7F8F23-3C40-435B-8D00-154DB9F4C086}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,6 +51,10 @@ Global
 		{18A8EBBE-4A40-423C-825C-01E5C6107918}.Debug|x86.Build.0 = Debug|x86
 		{18A8EBBE-4A40-423C-825C-01E5C6107918}.Release|x86.ActiveCfg = Release|x86
 		{18A8EBBE-4A40-423C-825C-01E5C6107918}.Release|x86.Build.0 = Release|x86
+		{9F7F8F23-3C40-435B-8D00-154DB9F4C086}.Debug|x86.ActiveCfg = Debug|x86
+		{9F7F8F23-3C40-435B-8D00-154DB9F4C086}.Debug|x86.Build.0 = Debug|x86
+		{9F7F8F23-3C40-435B-8D00-154DB9F4C086}.Release|x86.ActiveCfg = Release|x86
+		{9F7F8F23-3C40-435B-8D00-154DB9F4C086}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

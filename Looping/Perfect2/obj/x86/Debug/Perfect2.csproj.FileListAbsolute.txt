@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\Perfect2\bin\Debug\Perfect2.exe
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\Perfect2\bin\Debug\Perfect2.pdb
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\Perfect2\obj\x86\Debug\Perfect2.exe
+C:\Users\eahscs\Documents\GitHub\Looping\Looping\Perfect2\obj\x86\Debug\Perfect2.pdb

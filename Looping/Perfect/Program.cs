@@ -17,17 +17,16 @@ namespace Perfect
                 while (true)
                 {
 
-                    if (check <= 1)
+                    if (check < 1)
                     {
                         break;
                     }
-                    while (true)
-                    {
-                        if (i % check == 0)
-                            total += check;
 
-                        check--;
-                    }
+                    if (i % check == 0)
+                        total += check;
+
+                    check--;
+
                 }
 
                 int perfect;
